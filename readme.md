@@ -1,0 +1,3 @@
+# Main
+
+It's a file used to update all the functions and use roles mechanics as if it was a data base. I'd like to use it for getting and updating some info. And the core functions I'd like to implement in code is creating and updating new channels with prefered name, description of the said channel, updating roles of users getting into the game for channel, and some other calendar and notification system to mention said players when the game is going to be played.
